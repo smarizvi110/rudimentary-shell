@@ -1,4 +1,4 @@
-# Rudimentary Shell in C** 
+# Rudimentary Shell in C
 
 ## ~September 2024
 
